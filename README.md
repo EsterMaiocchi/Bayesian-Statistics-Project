@@ -34,7 +34,7 @@ The project applies advanced Bayesian and statistical techniques, including:
 
 ## Tools
 - R
-- Stan (Bayesian modeling)
+- Stan
 - CausalImpact package
 
 ## Project Structure
